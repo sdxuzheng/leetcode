@@ -1,5 +1,4 @@
-# Leetcode
-leecode算法练习
+# leetcode
 
 ![Travis](https://img.shields.io/badge/language-php-red.svg)
 
