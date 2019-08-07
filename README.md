@@ -1,7 +1,7 @@
 # Leetcode
 leecode算法练习
 
-[![Travis](https://img.shields.io/badge/language-php-red.svg)]
+![Travis](https://img.shields.io/badge/language-php-red.svg)
 
 记录每天自己的算法练习，我的成长，也许也是你的~ 
 
