@@ -2,12 +2,12 @@
 
 ![Travis](https://img.shields.io/badge/language-php-red.svg)
 
-记录每天自己的算法练习，我的成长，也许也是你的~ 
+记录每天自己的算法练习。我的成长，也许也是你的~ 
 
 ## 汇总
 
-| 序号 | 题目&题解                                                    |
-| ---- | ------------------------------------------------------------ |
+| 序号   | 题目&题解                                    |
+| ---- | ---------------------------------------- |
 | 1    | [两数之和](https://github.com/sdxuzheng/Leetcode/blob/master/notes/两数之和.md) |
 | 2    | [两数相加](https://github.com/sdxuzheng/Leetcode/blob/master/notes/两数相加.md) |
 | 19   | [删除链表的倒数第 N 个节点](https://github.com/sdxuzheng/Leetcode/blob/master/notes/删除链表的倒数第N个节点.md) |
