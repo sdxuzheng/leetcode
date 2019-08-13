@@ -14,8 +14,10 @@
 | 20   | [有效的括号](https://github.com/sdxuzheng/Leetcode/blob/master/notes/有效的括号.md) |
 | 21   | [合并两个有序链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/合并两个有序链表.md) |
 | 23   | [合并 K 个排序链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/合并K个排序链表.md) |
+| 42   | [接雨水](https://github.com/sdxuzheng/Leetcode/blob/master/notes/接雨水.md) |
 | 94   | [二叉树的中序遍历](https://github.com/sdxuzheng/Leetcode/blob/master/notes/二叉树的中序遍历.md) |
 | 96   | [不同的二叉搜索树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/不同的二叉搜索树.md) |
+| 96   | [验证二叉搜索树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/验证二叉搜索树.md) |
 | 148  | [排序链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/排序链表.md) |
 | 155  | [最小栈](https://github.com/sdxuzheng/Leetcode/blob/master/notes/最小栈.md) |
 | 206  | [反转链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/反转链表.md) |
