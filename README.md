@@ -19,7 +19,7 @@
 | 96   | [不同的二叉搜索树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/不同的二叉搜索树.md) |
 | 96   | [验证二叉搜索树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/验证二叉搜索树.md) |
 | 101  | [对称二叉树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/对称二叉树.md) |
-| 101  | [二叉树的层次遍历](https://github.com/sdxuzheng/Leetcode/blob/master/notes/二叉树的层次遍历.md) |
+| 102  | [二叉树的层次遍历](https://github.com/sdxuzheng/Leetcode/blob/master/notes/二叉树的层次遍历.md) |
 | 148  | [排序链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/排序链表.md) |
 | 155  | [最小栈](https://github.com/sdxuzheng/Leetcode/blob/master/notes/最小栈.md) |
 | 206  | [反转链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/反转链表.md) |
