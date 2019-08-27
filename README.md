@@ -29,6 +29,7 @@
 | 226  | [翻转二叉树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/翻转二叉树.md) |
 | 234  | [回文链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/回文链表.md) |
 | 394  | [字符串解码](https://github.com/sdxuzheng/Leetcode/blob/master/notes/字符串解码.md) |
+| 538  | [把二叉搜索树转换为累加树](https://github.com/sdxuzheng/Leetcode/blob/master/notes/把二叉搜索树转换为累加树.md) |
 | 621  | [任务调度器](https://github.com/sdxuzheng/Leetcode/blob/master/notes/任务调度器.md) |
 | 739  | [每日温度](https://github.com/sdxuzheng/Leetcode/blob/master/notes/每日温度.md) |
 
