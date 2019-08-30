@@ -11,6 +11,7 @@
 | 1    | [两数之和](https://github.com/sdxuzheng/Leetcode/blob/master/notes/两数之和.md) |
 | 2    | [两数相加](https://github.com/sdxuzheng/Leetcode/blob/master/notes/两数相加.md) |
 | 3    | [无重复字符的最长子串](https://github.com/sdxuzheng/Leetcode/blob/master/notes/无重复字符的最长子串.md) |
+| 5    | [最长回文子串](https://github.com/sdxuzheng/Leetcode/blob/master/notes/最长回文子串.md) |
 | 19   | [删除链表的倒数第 N 个节点](https://github.com/sdxuzheng/Leetcode/blob/master/notes/删除链表的倒数第N个节点.md) |
 | 20   | [有效的括号](https://github.com/sdxuzheng/Leetcode/blob/master/notes/有效的括号.md) |
 | 21   | [合并两个有序链表](https://github.com/sdxuzheng/Leetcode/blob/master/notes/合并两个有序链表.md) |
